@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ToshiroApp</string>
+    <string name="database">weatherDB</string>
+</resources>
